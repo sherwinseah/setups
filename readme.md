@@ -16,3 +16,12 @@ set PATH=%PATH%;C:\Program Files\Python311
 set PATH=%PATH%;C:\Program Files\Python311\Scripts
 python --version
 ```
+
+## Chrome
+```
+https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cwindows
+```
+Check chrome installed version
+```
+https://googlechromelabs.github.io/chrome-for-testing/
+```
